@@ -13,7 +13,6 @@ public class Player {
 
     private User user;
 
-
     public long getUid() {
         return uid;
     }
